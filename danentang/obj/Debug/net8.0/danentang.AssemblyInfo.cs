@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("danentang")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+53d2dd8d131777cba4796080634ac2322c403ff6")]
 [assembly: System.Reflection.AssemblyProductAttribute("danentang")]
 [assembly: System.Reflection.AssemblyTitleAttribute("danentang")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

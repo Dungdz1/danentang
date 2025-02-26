@@ -3,24 +3,120 @@
   "WorkspaceRootPath": "C:\\Users\\dung0\\source\\repos\\danentang\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dung0\\source\\repos\\danentang\\danentang\\Migrations\\20250216170234_TenMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:danentang\\Migrations\\20250216170234_TenMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{45C3E62F-6BC5-424A-974D-DAA8F178F2D9}|danentang\\danentang.csproj|c:\\users\\dung0\\source\\repos\\danentang\\danentang\\controllers\\payrollcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45C3E62F-6BC5-424A-974D-DAA8F178F2D9}|danentang\\danentang.csproj|solutionrelative:danentang\\controllers\\payrollcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{45C3E62F-6BC5-424A-974D-DAA8F178F2D9}|danentang\\danentang.csproj|c:\\users\\dung0\\source\\repos\\danentang\\danentang\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{45C3E62F-6BC5-424A-974D-DAA8F178F2D9}|danentang\\danentang.csproj|solutionrelative:danentang\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{45C3E62F-6BC5-424A-974D-DAA8F178F2D9}|danentang\\danentang.csproj|c:\\users\\dung0\\source\\repos\\danentang\\danentang\\controllers\\attendancecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45C3E62F-6BC5-424A-974D-DAA8F178F2D9}|danentang\\danentang.csproj|solutionrelative:danentang\\controllers\\attendancecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45C3E62F-6BC5-424A-974D-DAA8F178F2D9}|danentang\\danentang.csproj|c:\\users\\dung0\\source\\repos\\danentang\\danentang\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45C3E62F-6BC5-424A-974D-DAA8F178F2D9}|danentang\\danentang.csproj|solutionrelative:danentang\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{45C3E62F-6BC5-424A-974D-DAA8F178F2D9}|danentang\\danentang.csproj|c:\\users\\dung0\\source\\repos\\danentang\\danentang\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{45C3E62F-6BC5-424A-974D-DAA8F178F2D9}|danentang\\danentang.csproj|solutionrelative:danentang\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{45C3E62F-6BC5-424A-974D-DAA8F178F2D9}|danentang\\danentang.csproj|c:\\users\\dung0\\source\\repos\\danentang\\danentang\\services\\implements\\payrollservice\\payrollservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45C3E62F-6BC5-424A-974D-DAA8F178F2D9}|danentang\\danentang.csproj|solutionrelative:danentang\\services\\implements\\payrollservice\\payrollservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45C3E62F-6BC5-424A-974D-DAA8F178F2D9}|danentang\\danentang.csproj|c:\\users\\dung0\\source\\repos\\danentang\\danentang\\services\\implements\\attendservice\\attendanceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45C3E62F-6BC5-424A-974D-DAA8F178F2D9}|danentang\\danentang.csproj|solutionrelative:danentang\\services\\implements\\attendservice\\attendanceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45C3E62F-6BC5-424A-974D-DAA8F178F2D9}|danentang\\danentang.csproj|c:\\users\\dung0\\source\\repos\\danentang\\danentang\\services\\implements\\payrollservice\\prollbaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45C3E62F-6BC5-424A-974D-DAA8F178F2D9}|danentang\\danentang.csproj|solutionrelative:danentang\\services\\implements\\payrollservice\\prollbaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45C3E62F-6BC5-424A-974D-DAA8F178F2D9}|danentang\\danentang.csproj|c:\\users\\dung0\\source\\repos\\danentang\\danentang\\entity\\payroll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45C3E62F-6BC5-424A-974D-DAA8F178F2D9}|danentang\\danentang.csproj|solutionrelative:danentang\\entity\\payroll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45C3E62F-6BC5-424A-974D-DAA8F178F2D9}|danentang\\danentang.csproj|c:\\users\\dung0\\source\\repos\\danentang\\danentang\\dtos\\payroll\\payrolldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45C3E62F-6BC5-424A-974D-DAA8F178F2D9}|danentang\\danentang.csproj|solutionrelative:danentang\\dtos\\payroll\\payrolldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{45C3E62F-6BC5-424A-974D-DAA8F178F2D9}|danentang\\danentang.csproj|c:\\users\\dung0\\source\\repos\\danentang\\danentang\\services\\implements\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{45C3E62F-6BC5-424A-974D-DAA8F178F2D9}|danentang\\danentang.csproj|solutionrelative:danentang\\services\\implements\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{45C3E62F-6BC5-424A-974D-DAA8F178F2D9}|danentang\\danentang.csproj|c:\\users\\dung0\\source\\repos\\danentang\\danentang\\services\\implements\\attendservice\\attbaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45C3E62F-6BC5-424A-974D-DAA8F178F2D9}|danentang\\danentang.csproj|solutionrelative:danentang\\services\\implements\\attendservice\\attbaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45C3E62F-6BC5-424A-974D-DAA8F178F2D9}|danentang\\danentang.csproj|c:\\users\\dung0\\source\\repos\\danentang\\danentang\\dtos\\attendance\\attendancedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45C3E62F-6BC5-424A-974D-DAA8F178F2D9}|danentang\\danentang.csproj|solutionrelative:danentang\\dtos\\attendance\\attendancedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{45C3E62F-6BC5-424A-974D-DAA8F178F2D9}|danentang\\danentang.csproj|c:\\users\\dung0\\source\\repos\\danentang\\danentang\\services\\abstract\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{45C3E62F-6BC5-424A-974D-DAA8F178F2D9}|danentang\\danentang.csproj|solutionrelative:danentang\\services\\abstract\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45C3E62F-6BC5-424A-974D-DAA8F178F2D9}|danentang\\danentang.csproj|c:\\users\\dung0\\source\\repos\\danentang\\danentang\\services\\abstract\\payroll\\ipayrollservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45C3E62F-6BC5-424A-974D-DAA8F178F2D9}|danentang\\danentang.csproj|solutionrelative:danentang\\services\\abstract\\payroll\\ipayrollservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45C3E62F-6BC5-424A-974D-DAA8F178F2D9}|danentang\\danentang.csproj|c:\\users\\dung0\\source\\repos\\danentang\\danentang\\services\\abstract\\attendance\\iattendservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45C3E62F-6BC5-424A-974D-DAA8F178F2D9}|danentang\\danentang.csproj|solutionrelative:danentang\\services\\abstract\\attendance\\iattendservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45C3E62F-6BC5-424A-974D-DAA8F178F2D9}|danentang\\danentang.csproj|c:\\users\\dung0\\source\\repos\\danentang\\danentang\\entity\\attendance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45C3E62F-6BC5-424A-974D-DAA8F178F2D9}|danentang\\danentang.csproj|solutionrelative:danentang\\entity\\attendance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45C3E62F-6BC5-424A-974D-DAA8F178F2D9}|danentang\\danentang.csproj|c:\\users\\dung0\\source\\repos\\danentang\\danentang\\services\\implements\\baseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45C3E62F-6BC5-424A-974D-DAA8F178F2D9}|danentang\\danentang.csproj|solutionrelative:danentang\\services\\implements\\baseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45C3E62F-6BC5-424A-974D-DAA8F178F2D9}|danentang\\danentang.csproj|c:\\users\\dung0\\source\\repos\\danentang\\danentang\\dtos\\payroll\\updatepayrolldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45C3E62F-6BC5-424A-974D-DAA8F178F2D9}|danentang\\danentang.csproj|solutionrelative:danentang\\dtos\\payroll\\updatepayrolldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45C3E62F-6BC5-424A-974D-DAA8F178F2D9}|danentang\\danentang.csproj|c:\\users\\dung0\\source\\repos\\danentang\\danentang\\dtos\\payroll\\createpayrolldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45C3E62F-6BC5-424A-974D-DAA8F178F2D9}|danentang\\danentang.csproj|solutionrelative:danentang\\dtos\\payroll\\createpayrolldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45C3E62F-6BC5-424A-974D-DAA8F178F2D9}|danentang\\danentang.csproj|c:\\users\\dung0\\source\\repos\\danentang\\danentang\\dtos\\attendance\\updateattendancedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45C3E62F-6BC5-424A-974D-DAA8F178F2D9}|danentang\\danentang.csproj|solutionrelative:danentang\\dtos\\attendance\\updateattendancedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45C3E62F-6BC5-424A-974D-DAA8F178F2D9}|danentang\\danentang.csproj|c:\\users\\dung0\\source\\repos\\danentang\\danentang\\dtos\\attendance\\createattendancedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45C3E62F-6BC5-424A-974D-DAA8F178F2D9}|danentang\\danentang.csproj|solutionrelative:danentang\\dtos\\attendance\\createattendancedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45C3E62F-6BC5-424A-974D-DAA8F178F2D9}|danentang\\danentang.csproj|c:\\users\\dung0\\source\\repos\\danentang\\danentang\\dtos\\createuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45C3E62F-6BC5-424A-974D-DAA8F178F2D9}|danentang\\danentang.csproj|solutionrelative:danentang\\dtos\\createuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45C3E62F-6BC5-424A-974D-DAA8F178F2D9}|danentang\\danentang.csproj|c:\\users\\dung0\\source\\repos\\danentang\\danentang\\dtos\\errors\\errorsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45C3E62F-6BC5-424A-974D-DAA8F178F2D9}|danentang\\danentang.csproj|solutionrelative:danentang\\dtos\\errors\\errorsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45C3E62F-6BC5-424A-974D-DAA8F178F2D9}|danentang\\danentang.csproj|c:\\users\\dung0\\source\\repos\\danentang\\danentang\\entity\\errorlogs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45C3E62F-6BC5-424A-974D-DAA8F178F2D9}|danentang\\danentang.csproj|solutionrelative:danentang\\entity\\errorlogs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45C3E62F-6BC5-424A-974D-DAA8F178F2D9}|danentang\\danentang.csproj|c:\\users\\dung0\\source\\repos\\danentang\\danentang\\dbcontexts\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45C3E62F-6BC5-424A-974D-DAA8F178F2D9}|danentang\\danentang.csproj|solutionrelative:danentang\\dbcontexts\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45C3E62F-6BC5-424A-974D-DAA8F178F2D9}|danentang\\danentang.csproj|c:\\users\\dung0\\source\\repos\\danentang\\danentang\\entity\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45C3E62F-6BC5-424A-974D-DAA8F178F2D9}|danentang\\danentang.csproj|solutionrelative:danentang\\entity\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45C3E62F-6BC5-424A-974D-DAA8F178F2D9}|danentang\\danentang.csproj|c:\\users\\dung0\\source\\repos\\danentang\\danentang\\dtos\\updateuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45C3E62F-6BC5-424A-974D-DAA8F178F2D9}|danentang\\danentang.csproj|solutionrelative:danentang\\dtos\\updateuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45C3E62F-6BC5-424A-974D-DAA8F178F2D9}|danentang\\danentang.csproj|c:\\users\\dung0\\source\\repos\\danentang\\danentang\\exceptions\\userfriendlyexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45C3E62F-6BC5-424A-974D-DAA8F178F2D9}|danentang\\danentang.csproj|solutionrelative:danentang\\exceptions\\userfriendlyexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45C3E62F-6BC5-424A-974D-DAA8F178F2D9}|danentang\\danentang.csproj|c:\\users\\dung0\\source\\repos\\danentang\\danentang\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{45C3E62F-6BC5-424A-974D-DAA8F178F2D9}|danentang\\danentang.csproj|solutionrelative:danentang\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{45C3E62F-6BC5-424A-974D-DAA8F178F2D9}|danentang\\danentang.csproj|c:\\users\\dung0\\source\\repos\\danentang\\danentang\\dtos\\loginresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -33,34 +129,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{45C3E62F-6BC5-424A-974D-DAA8F178F2D9}|danentang\\danentang.csproj|c:\\users\\dung0\\source\\repos\\danentang\\danentang\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{45C3E62F-6BC5-424A-974D-DAA8F178F2D9}|danentang\\danentang.csproj|solutionrelative:danentang\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{45C3E62F-6BC5-424A-974D-DAA8F178F2D9}|danentang\\danentang.csproj|c:\\users\\dung0\\source\\repos\\danentang\\danentang\\dbcontexts\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{45C3E62F-6BC5-424A-974D-DAA8F178F2D9}|danentang\\danentang.csproj|solutionrelative:danentang\\dbcontexts\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{45C3E62F-6BC5-424A-974D-DAA8F178F2D9}|danentang\\danentang.csproj|c:\\users\\dung0\\source\\repos\\danentang\\danentang\\services\\implements\\baseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{45C3E62F-6BC5-424A-974D-DAA8F178F2D9}|danentang\\danentang.csproj|solutionrelative:danentang\\services\\implements\\baseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{45C3E62F-6BC5-424A-974D-DAA8F178F2D9}|danentang\\danentang.csproj|c:\\users\\dung0\\source\\repos\\danentang\\danentang\\exceptions\\userfriendlyexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{45C3E62F-6BC5-424A-974D-DAA8F178F2D9}|danentang\\danentang.csproj|solutionrelative:danentang\\exceptions\\userfriendlyexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{45C3E62F-6BC5-424A-974D-DAA8F178F2D9}|danentang\\danentang.csproj|c:\\users\\dung0\\source\\repos\\danentang\\danentang\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{45C3E62F-6BC5-424A-974D-DAA8F178F2D9}|danentang\\danentang.csproj|solutionrelative:danentang\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{45C3E62F-6BC5-424A-974D-DAA8F178F2D9}|danentang\\danentang.csproj|c:\\users\\dung0\\source\\repos\\danentang\\danentang\\dtos\\updateuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{45C3E62F-6BC5-424A-974D-DAA8F178F2D9}|danentang\\danentang.csproj|solutionrelative:danentang\\dtos\\updateuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{45C3E62F-6BC5-424A-974D-DAA8F178F2D9}|danentang\\danentang.csproj|c:\\users\\dung0\\source\\repos\\danentang\\danentang\\dtos\\createuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{45C3E62F-6BC5-424A-974D-DAA8F178F2D9}|danentang\\danentang.csproj|solutionrelative:danentang\\dtos\\createuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{45C3E62F-6BC5-424A-974D-DAA8F178F2D9}|danentang\\danentang.csproj|c:\\users\\dung0\\source\\repos\\danentang\\danentang\\entity\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{45C3E62F-6BC5-424A-974D-DAA8F178F2D9}|danentang\\danentang.csproj|solutionrelative:danentang\\entity\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -75,19 +143,240 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "20250216170234_TenMigration.cs",
-              "DocumentMoniker": "C:\\Users\\dung0\\source\\repos\\danentang\\danentang\\Migrations\\20250216170234_TenMigration.cs",
-              "RelativeDocumentMoniker": "danentang\\Migrations\\20250216170234_TenMigration.cs",
-              "ToolTip": "C:\\Users\\dung0\\source\\repos\\danentang\\danentang\\Migrations\\20250216170234_TenMigration.cs",
-              "RelativeToolTip": "danentang\\Migrations\\20250216170234_TenMigration.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Title": "PayrollController.cs",
+              "DocumentMoniker": "C:\\Users\\dung0\\source\\repos\\danentang\\danentang\\Controllers\\PayrollController.cs",
+              "RelativeDocumentMoniker": "danentang\\Controllers\\PayrollController.cs",
+              "ToolTip": "C:\\Users\\dung0\\source\\repos\\danentang\\danentang\\Controllers\\PayrollController.cs",
+              "RelativeToolTip": "danentang\\Controllers\\PayrollController.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAwwCUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-16T17:02:35.898Z",
+              "WhenOpened": "2025-02-26T16:24:39.066Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "AttendanceController.cs",
+              "DocumentMoniker": "C:\\Users\\dung0\\source\\repos\\danentang\\danentang\\Controllers\\AttendanceController.cs",
+              "RelativeDocumentMoniker": "danentang\\Controllers\\AttendanceController.cs",
+              "ToolTip": "C:\\Users\\dung0\\source\\repos\\danentang\\danentang\\Controllers\\AttendanceController.cs",
+              "RelativeToolTip": "danentang\\Controllers\\AttendanceController.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAwwCsAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T16:24:20.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AttendanceService.cs",
+              "DocumentMoniker": "C:\\Users\\dung0\\source\\repos\\danentang\\danentang\\Services\\Implements\\AttendService\\AttendanceService.cs",
+              "RelativeDocumentMoniker": "danentang\\Services\\Implements\\AttendService\\AttendanceService.cs",
+              "ToolTip": "C:\\Users\\dung0\\source\\repos\\danentang\\danentang\\Services\\Implements\\AttendService\\AttendanceService.cs",
+              "RelativeToolTip": "danentang\\Services\\Implements\\AttendService\\AttendanceService.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAowBIAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T15:50:50.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PayrollService.cs",
+              "DocumentMoniker": "C:\\Users\\dung0\\source\\repos\\danentang\\danentang\\Services\\Implements\\PayrollService\\PayrollService.cs",
+              "RelativeDocumentMoniker": "danentang\\Services\\Implements\\PayrollService\\PayrollService.cs",
+              "ToolTip": "C:\\Users\\dung0\\source\\repos\\danentang\\danentang\\Services\\Implements\\PayrollService\\PayrollService.cs",
+              "RelativeToolTip": "danentang\\Services\\Implements\\PayrollService\\PayrollService.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAwwDoAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T15:49:04.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProllBaseService.cs",
+              "DocumentMoniker": "C:\\Users\\dung0\\source\\repos\\danentang\\danentang\\Services\\Implements\\PayrollService\\ProllBaseService.cs",
+              "RelativeDocumentMoniker": "danentang\\Services\\Implements\\PayrollService\\ProllBaseService.cs",
+              "ToolTip": "C:\\Users\\dung0\\source\\repos\\danentang\\danentang\\Services\\Implements\\PayrollService\\ProllBaseService.cs",
+              "RelativeToolTip": "danentang\\Services\\Implements\\PayrollService\\ProllBaseService.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAgwBQAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T15:51:17.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AttBaseService.cs",
+              "DocumentMoniker": "C:\\Users\\dung0\\source\\repos\\danentang\\danentang\\Services\\Implements\\AttendService\\AttBaseService.cs",
+              "RelativeDocumentMoniker": "danentang\\Services\\Implements\\AttendService\\AttBaseService.cs",
+              "ToolTip": "C:\\Users\\dung0\\source\\repos\\danentang\\danentang\\Services\\Implements\\AttendService\\AttBaseService.cs",
+              "RelativeToolTip": "danentang\\Services\\Implements\\AttendService\\AttBaseService.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwBEAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T15:48:51.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IPayrollService.cs",
+              "DocumentMoniker": "C:\\Users\\dung0\\source\\repos\\danentang\\danentang\\Services\\Abstract\\Payroll\\IPayrollService.cs",
+              "RelativeDocumentMoniker": "danentang\\Services\\Abstract\\Payroll\\IPayrollService.cs",
+              "ToolTip": "C:\\Users\\dung0\\source\\repos\\danentang\\danentang\\Services\\Abstract\\Payroll\\IPayrollService.cs",
+              "RelativeToolTip": "danentang\\Services\\Abstract\\Payroll\\IPayrollService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T15:47:54.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IAttendService.cs",
+              "DocumentMoniker": "C:\\Users\\dung0\\source\\repos\\danentang\\danentang\\Services\\Abstract\\Attendance\\IAttendService.cs",
+              "RelativeDocumentMoniker": "danentang\\Services\\Abstract\\Attendance\\IAttendService.cs",
+              "ToolTip": "C:\\Users\\dung0\\source\\repos\\danentang\\danentang\\Services\\Abstract\\Attendance\\IAttendService.cs",
+              "RelativeToolTip": "danentang\\Services\\Abstract\\Attendance\\IAttendService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T15:47:39.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "UpdatePayrollDto.cs",
+              "DocumentMoniker": "C:\\Users\\dung0\\source\\repos\\danentang\\danentang\\Dtos\\Payroll\\UpdatePayrollDto.cs",
+              "RelativeDocumentMoniker": "danentang\\Dtos\\Payroll\\UpdatePayrollDto.cs",
+              "ToolTip": "C:\\Users\\dung0\\source\\repos\\danentang\\danentang\\Dtos\\Payroll\\UpdatePayrollDto.cs",
+              "RelativeToolTip": "danentang\\Dtos\\Payroll\\UpdatePayrollDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T15:43:18.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CreatePayrollDto.cs",
+              "DocumentMoniker": "C:\\Users\\dung0\\source\\repos\\danentang\\danentang\\Dtos\\Payroll\\CreatePayrollDto.cs",
+              "RelativeDocumentMoniker": "danentang\\Dtos\\Payroll\\CreatePayrollDto.cs",
+              "ToolTip": "C:\\Users\\dung0\\source\\repos\\danentang\\danentang\\Dtos\\Payroll\\CreatePayrollDto.cs",
+              "RelativeToolTip": "danentang\\Dtos\\Payroll\\CreatePayrollDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T15:43:02.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "UpdateAttendanceDto.cs",
+              "DocumentMoniker": "C:\\Users\\dung0\\source\\repos\\danentang\\danentang\\Dtos\\Attendance\\UpdateAttendanceDto.cs",
+              "RelativeDocumentMoniker": "danentang\\Dtos\\Attendance\\UpdateAttendanceDto.cs",
+              "ToolTip": "C:\\Users\\dung0\\source\\repos\\danentang\\danentang\\Dtos\\Attendance\\UpdateAttendanceDto.cs",
+              "RelativeToolTip": "danentang\\Dtos\\Attendance\\UpdateAttendanceDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T15:42:45.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CreateAttendanceDto.cs",
+              "DocumentMoniker": "C:\\Users\\dung0\\source\\repos\\danentang\\danentang\\Dtos\\Attendance\\CreateAttendanceDto.cs",
+              "RelativeDocumentMoniker": "danentang\\Dtos\\Attendance\\CreateAttendanceDto.cs",
+              "ToolTip": "C:\\Users\\dung0\\source\\repos\\danentang\\danentang\\Dtos\\Attendance\\CreateAttendanceDto.cs",
+              "RelativeToolTip": "danentang\\Dtos\\Attendance\\CreateAttendanceDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T15:42:32.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PayrollDto.cs",
+              "DocumentMoniker": "C:\\Users\\dung0\\source\\repos\\danentang\\danentang\\Dtos\\Payroll\\PayrollDto.cs",
+              "RelativeDocumentMoniker": "danentang\\Dtos\\Payroll\\PayrollDto.cs",
+              "ToolTip": "C:\\Users\\dung0\\source\\repos\\danentang\\danentang\\Dtos\\Payroll\\PayrollDto.cs",
+              "RelativeToolTip": "danentang\\Dtos\\Payroll\\PayrollDto.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAxwAkAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T15:42:10.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ErrorsDto.cs",
+              "DocumentMoniker": "C:\\Users\\dung0\\source\\repos\\danentang\\danentang\\Dtos\\Errors\\ErrorsDto.cs",
+              "RelativeDocumentMoniker": "danentang\\Dtos\\Errors\\ErrorsDto.cs",
+              "ToolTip": "C:\\Users\\dung0\\source\\repos\\danentang\\danentang\\Dtos\\Errors\\ErrorsDto.cs",
+              "RelativeToolTip": "danentang\\Dtos\\Errors\\ErrorsDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T15:42:03.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AttendanceDto.cs",
+              "DocumentMoniker": "C:\\Users\\dung0\\source\\repos\\danentang\\danentang\\Dtos\\Attendance\\AttendanceDto.cs",
+              "RelativeDocumentMoniker": "danentang\\Dtos\\Attendance\\AttendanceDto.cs",
+              "ToolTip": "C:\\Users\\dung0\\source\\repos\\danentang\\danentang\\Dtos\\Attendance\\AttendanceDto.cs",
+              "RelativeToolTip": "danentang\\Dtos\\Attendance\\AttendanceDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T15:41:48.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ErrorLogs.cs",
+              "DocumentMoniker": "C:\\Users\\dung0\\source\\repos\\danentang\\danentang\\Entity\\ErrorLogs.cs",
+              "RelativeDocumentMoniker": "danentang\\Entity\\ErrorLogs.cs",
+              "ToolTip": "C:\\Users\\dung0\\source\\repos\\danentang\\danentang\\Entity\\ErrorLogs.cs",
+              "RelativeToolTip": "danentang\\Entity\\ErrorLogs.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T15:17:20.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Payroll.cs",
+              "DocumentMoniker": "C:\\Users\\dung0\\source\\repos\\danentang\\danentang\\Entity\\Payroll.cs",
+              "RelativeDocumentMoniker": "danentang\\Entity\\Payroll.cs",
+              "ToolTip": "C:\\Users\\dung0\\source\\repos\\danentang\\danentang\\Entity\\Payroll.cs",
+              "RelativeToolTip": "danentang\\Entity\\Payroll.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAA1wAwAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T15:08:38.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Attendance.cs",
+              "DocumentMoniker": "C:\\Users\\dung0\\source\\repos\\danentang\\danentang\\Entity\\Attendance.cs",
+              "RelativeDocumentMoniker": "danentang\\Entity\\Attendance.cs",
+              "ToolTip": "C:\\Users\\dung0\\source\\repos\\danentang\\danentang\\Entity\\Attendance.cs",
+              "RelativeToolTip": "danentang\\Entity\\Attendance.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T14:49:45.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\dung0\\source\\repos\\danentang\\danentang\\appsettings.json",
               "RelativeDocumentMoniker": "danentang\\appsettings.json",
@@ -95,12 +384,11 @@
               "RelativeToolTip": "danentang\\appsettings.json",
               "ViewState": "AQIAAAYAAAAAAAAAAAAAAAkAAACBAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-02-16T16:14:36.205Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-16T16:14:36.205Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 29,
               "Title": "LoginResponseDto.cs",
               "DocumentMoniker": "C:\\Users\\dung0\\source\\repos\\danentang\\danentang\\Dtos\\LoginResponseDto.cs",
               "RelativeDocumentMoniker": "danentang\\Dtos\\LoginResponseDto.cs",
@@ -108,12 +396,11 @@
               "RelativeToolTip": "danentang\\Dtos\\LoginResponseDto.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAwAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-16T15:57:05.887Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-16T15:57:05.887Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 30,
               "Title": "LoginDto.cs",
               "DocumentMoniker": "C:\\Users\\dung0\\source\\repos\\danentang\\danentang\\Dtos\\LoginDto.cs",
               "RelativeDocumentMoniker": "danentang\\Dtos\\LoginDto.cs",
@@ -121,51 +408,50 @@
               "RelativeToolTip": "danentang\\Dtos\\LoginDto.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-16T15:56:20.166Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-16T15:56:20.166Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\dung0\\source\\repos\\danentang\\danentang\\Program.cs",
               "RelativeDocumentMoniker": "danentang\\Program.cs",
               "ToolTip": "C:\\Users\\dung0\\source\\repos\\danentang\\danentang\\Program.cs",
               "RelativeToolTip": "danentang\\Program.cs",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAgwBkAAABLAAAA",
+              "ViewState": "AQIAABEAAAAAAAAAAAAQwB0AAABKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-16T15:37:31.419Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 9,
               "Title": "UserService.cs",
               "DocumentMoniker": "C:\\Users\\dung0\\source\\repos\\danentang\\danentang\\Services\\Implements\\UserService.cs",
               "RelativeDocumentMoniker": "danentang\\Services\\Implements\\UserService.cs",
               "ToolTip": "C:\\Users\\dung0\\source\\repos\\danentang\\danentang\\Services\\Implements\\UserService.cs",
               "RelativeToolTip": "danentang\\Services\\Implements\\UserService.cs",
-              "ViewState": "AQIAAEcAAAAAAAAAAAAiwEkAAAAAAAAA",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwGEAAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-16T15:36:59.532Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 12,
               "Title": "IUserService.cs",
               "DocumentMoniker": "C:\\Users\\dung0\\source\\repos\\danentang\\danentang\\Services\\Abstract\\IUserService.cs",
               "RelativeDocumentMoniker": "danentang\\Services\\Abstract\\IUserService.cs",
               "ToolTip": "C:\\Users\\dung0\\source\\repos\\danentang\\danentang\\Services\\Abstract\\IUserService.cs",
               "RelativeToolTip": "danentang\\Services\\Abstract\\IUserService.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAsAAAA6AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-16T15:35:40.333Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 27,
               "Title": "UserFriendlyException.cs",
               "DocumentMoniker": "C:\\Users\\dung0\\source\\repos\\danentang\\danentang\\Exceptions\\UserFriendlyException.cs",
               "RelativeDocumentMoniker": "danentang\\Exceptions\\UserFriendlyException.cs",
@@ -173,51 +459,50 @@
               "RelativeToolTip": "danentang\\Exceptions\\UserFriendlyException.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-16T15:34:04.785Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-16T15:34:04.785Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 16,
               "Title": "BaseService.cs",
               "DocumentMoniker": "C:\\Users\\dung0\\source\\repos\\danentang\\danentang\\Services\\Implements\\BaseService.cs",
               "RelativeDocumentMoniker": "danentang\\Services\\Implements\\BaseService.cs",
               "ToolTip": "C:\\Users\\dung0\\source\\repos\\danentang\\danentang\\Services\\Implements\\BaseService.cs",
               "RelativeToolTip": "danentang\\Services\\Implements\\BaseService.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAgwBMAAABMAAAA",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwA0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-16T15:30:52.823Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 2,
               "Title": "UserController.cs",
               "DocumentMoniker": "C:\\Users\\dung0\\source\\repos\\danentang\\danentang\\Controllers\\UserController.cs",
               "RelativeDocumentMoniker": "danentang\\Controllers\\UserController.cs",
               "ToolTip": "C:\\Users\\dung0\\source\\repos\\danentang\\danentang\\Controllers\\UserController.cs",
               "RelativeToolTip": "danentang\\Controllers\\UserController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAACAAAAAAAAAAAAAIwCgAAAAuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-16T15:18:05.042Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 24,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "C:\\Users\\dung0\\source\\repos\\danentang\\danentang\\DbContexts\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "danentang\\DbContexts\\ApplicationDbContext.cs",
               "ToolTip": "C:\\Users\\dung0\\source\\repos\\danentang\\danentang\\DbContexts\\ApplicationDbContext.cs",
               "RelativeToolTip": "danentang\\DbContexts\\ApplicationDbContext.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAA9wBcAAAAlAAAA",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAmwEgAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-16T15:17:25.811Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 26,
               "Title": "UpdateUserDto.cs",
               "DocumentMoniker": "C:\\Users\\dung0\\source\\repos\\danentang\\danentang\\Dtos\\UpdateUserDto.cs",
               "RelativeDocumentMoniker": "danentang\\Dtos\\UpdateUserDto.cs",
@@ -225,12 +510,11 @@
               "RelativeToolTip": "danentang\\Dtos\\UpdateUserDto.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-16T14:51:35.871Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-16T14:51:35.871Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 21,
               "Title": "CreateUserDto.cs",
               "DocumentMoniker": "C:\\Users\\dung0\\source\\repos\\danentang\\danentang\\Dtos\\CreateUserDto.cs",
               "RelativeDocumentMoniker": "danentang\\Dtos\\CreateUserDto.cs",
@@ -243,7 +527,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 31,
               "Title": "UserDto.cs",
               "DocumentMoniker": "C:\\Users\\dung0\\source\\repos\\danentang\\danentang\\Dtos\\UserDto.cs",
               "RelativeDocumentMoniker": "danentang\\Dtos\\UserDto.cs",
@@ -251,18 +535,17 @@
               "RelativeToolTip": "danentang\\Dtos\\UserDto.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-16T14:51:08.864Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-16T14:51:08.864Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 25,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\dung0\\source\\repos\\danentang\\danentang\\Entity\\User.cs",
               "RelativeDocumentMoniker": "danentang\\Entity\\User.cs",
               "ToolTip": "C:\\Users\\dung0\\source\\repos\\danentang\\danentang\\Entity\\User.cs",
               "RelativeToolTip": "danentang\\Entity\\User.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAArAAAA",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAxwAsAAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-16T14:50:31.892Z",
               "EditorCaption": ""

@@ -91,7 +91,8 @@ namespace danentang.Services.Implements
             return tokenHandler.WriteToken(token);
         }
 
-        public void UpdateUser(UserDto input)
+
+        public void UpdateUser(UpdateUserDto input)
         {
             var userFind = FindUserById(input.Id);
             userFind.Name = input.Name;

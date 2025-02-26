@@ -6,6 +6,10 @@ using Microsoft.IdentityModel.Tokens;
 using System.Text;
 using danentang.DbContexts;
 using Microsoft.EntityFrameworkCore;
+using danentang.Services.Abstract.Attendance;
+using danentang.Services.Implements.AttendService;
+using danentang.Services.Abstract.Payroll;
+using danentang.Services.Implements.PayrollService;
 
 namespace danentang
 {
@@ -22,6 +26,8 @@ namespace danentang
             builder.Services.AddEndpointsApiExplorer();
             builder.Services.AddSwaggerGen();
             builder.Services.AddScoped<IUserService, UserService>();
+            builder.Services.AddScoped<IAttendService, AttendanceService>();
+            builder.Services.AddScoped<IPayrollService, PayrollService>();
             builder.Services.AddDbContext<ApplicationDbContext>(options =>
     options.UseSqlServer(builder.Configuration.GetConnectionString("Default")));
 

@@ -15,7 +15,7 @@ namespace danentang.Services.Implements
         protected User FindUserById(int userId)
         {
             var userFind = _dbContext.Users.FirstOrDefault(s => s.Id == userId && !s.IsDeleted);
-            if (userFind != null)
+            if (userFind == null)
             {
                 throw new UserFriendlyException($"Không tìm thấy người dùng có id {userId}");
             }
